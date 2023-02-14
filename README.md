@@ -6,7 +6,7 @@
 - [React](https://create-react-app.dev/docs/getting-started/)
 - [Tailwind CSS](https://tailwindcss.com/docs/installation)
 
-## How To Use
+## How To Use 💻
 
 Install the dependencies using NPM
 
